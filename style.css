@@ -1,0 +1,4 @@
+/* Finds divs that contain messages starting with ``` */
+div[body^="```"] {
+    width: 100%;
+}
