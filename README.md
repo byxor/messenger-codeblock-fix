@@ -18,4 +18,4 @@ Copy the fixed CSS from `style.css` into the CSS injector.
 
 I'm using [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) for Firefox.
 
-It's also available for [Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
+It's also available for [Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en).
