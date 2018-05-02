@@ -1,14 +1,14 @@
-A recent update to [Facebook Messenger](http://www.messenger.com) has broken the way code blocks are displayed by giving them a very thin fixed width.
+A recent update to [Facebook Messenger](http://www.messenger.com) has broken the way code blocks are displayed. The messages are word wrapped for seemingly no reason.
 
-This CSS fixes the problem and gives you the code blocks you deserve.
+A tiny CSS tweak can fix the problem and give you the code blocks you deserve.
 
 ## Demo
 
 ### Before:
-![Image of codeblock before fix](before.png)
+![Image of code block before fix](before.png)
 
 ### After:
-![Image of codeblock after fix](after.png)
+![Image of code block after fix](after.png)
 
 ## Installation
 
