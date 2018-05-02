@@ -10,12 +10,15 @@ This CSS fixes the problem and gives you the code blocks you deserve.
 ### After:
 ![Image of codeblock after fix](after.png)
 
-## How to Install:
+## Installation
 
-Use a CSS injection addon for your browser.
-
-Copy the fixed CSS from `style.css` into the CSS injector.
+### 1. Get a CSS injection addon for your browser.
 
 I'm using [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) for Firefox.
 
 It's also available for [Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en).
+
+
+### 2. Copy the fixed CSS into the CSS injector.
+
+The fixed CSS is in the `style.css` file.
