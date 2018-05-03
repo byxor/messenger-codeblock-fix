@@ -21,4 +21,4 @@ It's also available for [Chrome](https://chrome.google.com/webstore/detail/styli
 
 ### 2. Copy the fixed CSS into the CSS injector.
 
-The fixed CSS is in the `style.css` file.
+The fixed CSS is in the `fix.css` file.
