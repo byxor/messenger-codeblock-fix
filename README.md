@@ -14,10 +14,9 @@ A tiny CSS tweak can fix the problem and give you the code blocks you deserve.
 
 ### 1. Get a CSS injection addon for your browser.
 
-I'm using [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) for Firefox.
+You can use Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
 
-It's also available for [Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en).
-
+Don't use Stylish, [it's spyware](https://www.reddit.com/r/programming/comments/8vpqqg/stylish_browser_extension_steals_all_your/).
 
 ### 2. Copy the fixed CSS into the CSS injector.
 
